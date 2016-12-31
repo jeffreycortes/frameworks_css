@@ -1,0 +1,21 @@
+body{
+  background: url(../image/FondoJarras.jpeg) fixed;
+  color: white;
+}
+aside, article{
+  background: rgba(9, 9, 9, 0.5);
+}
+article  div.thumbnail > img{
+  width: 120px;
+  height: 100px;
+}
+#Contenedor{
+  background: rgba(233, 51, 85, 0.5);
+}
+label{
+  background: rgba(183, 80, 80, 0.4);
+  color: white;
+}
+nav li > a:hover{
+  background: white;
+}
