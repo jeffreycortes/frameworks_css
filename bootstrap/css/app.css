@@ -1,0 +1,34 @@
+body{
+  background: #b8d4e6;
+}
+#Nav-RedesSociales img:hover{
+  padding: 0px;
+}
+#Nav-RedesSociales img{
+  height: 40px;
+  transition: 0.5s;
+}
+header nav{
+  background: #6BDAC1;
+  border-radius: 4px;
+  -moz-border-radius: 4px;
+}
+header nav ul li{
+  height: 60px;
+  vertical-align: middle;
+  transition: 0.7s;
+}
+header nav ul li a{
+  color: #48607b;
+  transition: 1s;
+}
+header nav li:hover{
+  background: #b8d4e6 !important;
+  color: #a6450d;
+}
+#Contenedor{
+  background: #fff;
+  padding: 20px 30px;
+  border-radius: 4px;
+  -moz-border-radius: 4px;
+}
